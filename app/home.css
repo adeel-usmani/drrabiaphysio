@@ -6,7 +6,7 @@
     width: 100vw;
     height: 100vh;
     overflow: hidden;
-    background: linear-gradient(to top left, rgb(231, 237, 240), rgba(156, 233, 252, 0.6), rgb(60, 115, 218));
+    background: linear-gradient(to right, rgb(179, 228, 255), rgba(156, 233, 252, 0.6), rgb(82, 125, 206));
   }
   
   .hiddenLine {
