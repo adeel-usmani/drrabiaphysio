@@ -7,10 +7,9 @@ export default function Home() {
     <div className="outerContainer">
       <div className="hiddenLine" />
       <Particles className="particles" quantity={500} />
-      <h1 className="mainHeading">Example</h1>
-      {/* <h1 className="mainHeading">Dr Rabia</h1>
-      <p className="subHeading">DPT | MS-WHPT | RIT</p> */}
-      <p className="subHeading">X | Y | Z</p>  
+      <h1 className="mainHeading">Dr Rabia pt</h1>
+      {/* <p className="subHeading">Physiotherapist</p> */}
+      <p className="subHeading">DPT | MS-WHPT | RIT</p>
     </div>
   );
 }

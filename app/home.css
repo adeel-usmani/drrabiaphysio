@@ -6,7 +6,7 @@
     width: 100vw;
     height: 100vh;
     overflow: hidden;
-    background: linear-gradient(to right, rgb(179, 228, 255), rgba(156, 233, 252, 0.6), rgb(82, 125, 206));
+    background: linear-gradient(to right, rgb(0, 125, 192), rgba(156, 233, 252, 0.6), rgb(82, 125, 206));
   }
   
   .hiddenLine {
@@ -35,6 +35,7 @@
   
   .mainHeading {
     padding: 0.875rem 0.125rem;
+    height: 150px;
     z-index: 10;
     font-size: 2.5rem;
     font-weight: bold;
@@ -61,7 +62,8 @@
   }
   
   .subHeading {
-    padding: 0.875rem 0.125rem;
+    /* padding: 0.875rem 0.125rem; */
+    height: 50px;
     z-index: 10;
     font-size: 1.5rem;
     font-weight: bold;
